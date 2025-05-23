@@ -1,0 +1,13 @@
+[terminal]
+[terminal.shell]
+args = ["--login"]
+program = "/usr/bin/zsh"
+
+[keyboard]
+bindings = [
+{key = "F11", action = "ToggleFullscreen"}
+]
+
+[font]
+normal = {family = "FiraCode"}
+size = 10
